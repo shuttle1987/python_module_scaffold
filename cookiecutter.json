@@ -1,5 +1,7 @@
 {
   "full_name": "Janis Lesinskis",
+  "project_name": "Python project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "module_name": "python_module",
   "project_short_description": "Python project scaffolding to reduce boilerplate needed to create an installable Python module."
 }
