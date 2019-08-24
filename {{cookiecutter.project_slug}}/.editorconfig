@@ -14,6 +14,10 @@ end_of_line = lf
 indent_style = tab
 end_of_line = crlf
 
+# Set default charset
+[*.{js,py}]
+charset = utf-8
+
 [LICENSE]
 insert_final_newline = false
 
