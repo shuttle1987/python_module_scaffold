@@ -1,5 +1,6 @@
 {
   "full_name": "Janis Lesinskis",
+  "email": "janis@pythoncharmers.com",
   "project_name": "Python project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "module_name": "python_module",
