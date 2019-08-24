@@ -16,7 +16,7 @@ setup(
     package_dir={'{{ cookiecutter.module_name }}':
                  '{{ cookiecutter.module_name }}'},
     include_package_data=True,
-    install_requires=requirements,
+    install_requires=[],
     zip_safe=False,
     keywords='{{ cookiecutter.keywords }}',
     classifiers=[
