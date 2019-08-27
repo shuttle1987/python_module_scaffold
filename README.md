@@ -13,6 +13,12 @@ Before you start make sure you install cookiecutter:
 pip install cookiecutter
 ```
 
+This project template can be used directly from GitHub like so:
+
+```bash
+cookiecutter gh:shuttle1987/python_module_scaffold
+```
+
 To use this project template:
 
 ```bash
