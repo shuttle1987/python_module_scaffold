@@ -24,3 +24,6 @@ To use this project template:
 ```bash
 cookiecutter /path/to/template
 ```
+
+Then fill in some metadata about your project and then check out your newly created project files.
+
